@@ -14,6 +14,6 @@ This code appears to be a script for training and evaluating a Convolutional Neu
 
 ## Data
 The datasets used in our case study can be found in the following links:
-[Google Colab](https://colab.research.google.com)
-[DAiSEE: Extracted facial features tabular dataset](https://drive.google.com/file/d/1jE7ytpdF2Hn83ZQzd21MdmS1Oir_y0ty/view?usp=sharing)
-https://drive.google.com/file/d/11Xcl3xYsaaKcRgxsvyzrPKW9OOaVIyKP/view?usp=sharing
+
+* [DAiSEE: Extracted facial features dataset](https://drive.google.com/file/d/1jE7ytpdF2Hn83ZQzd21MdmS1Oir_y0ty/view?usp=sharing)
+* [WACV: Extracted facial features dataset](https://drive.google.com/file/d/11Xcl3xYsaaKcRgxsvyzrPKW9OOaVIyKP/view?usp=sharing)
