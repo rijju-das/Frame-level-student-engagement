@@ -33,9 +33,9 @@ All codes are written in python3 and can be found in ./Scripts.
 ```bash
 Frame-level-student-engagement/
 ├── Scripts/
-│   ├── DataFormatter.py        # Dataset formatting + splitting + reshaping utilities
+│   ├── DataFormatter.py        # Dataset formatting 
 │   ├── XGB_pred.ipynb          # XGBoost baseline training/evaluation
-│   └── Tab_CNN.ipynb           # Deep model + transfer learning experiments
+│   └── Tab_CNN.ipynb           # transfer learning
 ├── README.md
 ```
 
