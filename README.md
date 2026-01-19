@@ -30,8 +30,16 @@ This project focuses on developing a robust student engagement detection system 
    - Transfer learned representations to the target dataset (**DAiSEE videos**)  
 4. **Frame-level prediction**
    - Generate engagement predictions at the frame level for DAiSEE videos
-## Code
+
+## 📂 Repository Structure
 All codes are written in python3 and can be found in ./Scripts.
+``bash
+Frame-level-student-engagement/
+├── Scripts/
+│   ├── DataFormatter.py        # Dataset formatting + splitting + reshaping utilities
+│   ├── XGB_pred.ipynb          # XGBoost baseline training/evaluation
+│   └── Tab_CNN.ipynb           # Deep model + transfer learning experiments
+├── README.md ``
 
 * DataFormatter.py : DataFormatter class that prepares the input data for a machine learning model. It splits the dataset into training, validation, and test sets, reshapes the input features to include a third dimension, and performs one-hot encoding on the target labels. This ensures that the data is properly formatted and ready for training a model.
 * XGB_pred.ipynb : The code performs tasks to train and evaluate an XGBoost classifier for student engagement prediction. 
