@@ -1,3 +1,11 @@
+# Enhancing Frame-Level Student Engagement Classification Through Knowledge Transfer Techniques
+
+📌 Official implementation and resources for the paper:
+
+**Riju Das, Soumyabrata Dev**  
+**“Enhancing frame-level student engagement classification through knowledge transfer techniques”**  
+*Applied Intelligence, 2024* — DOI: **10.1007/s10489-023-05256-2**
+
 # Frame-level-student-engagement
 Video based real life student engagement classification using knowledge transfer concept
 
