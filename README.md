@@ -52,6 +52,7 @@ The datasets used in our case study can be found in the following links:
 
 ## Citation
 If you use this repository, please cite the paper:
+```bibtex
 @article{das2024enhancing,
   title   = {Enhancing frame-level student engagement classification through knowledge transfer techniques},
   author  = {Das, Riju and Dev, Soumyabrata},
@@ -62,4 +63,9 @@ If you use this repository, please cite the paper:
   doi     = {10.1007/s10489-023-05256-2},
   publisher = {Springer}
 }
+```
+## 👤 Contact
+
+Riju Das ([riju.das@ucd.ie](mailto:riju.das@ucd.ie))
+Ph.D. Scholar – University College Dublin
 
